@@ -22,13 +22,13 @@ The episode ends when the pole is more than 15 degrees from vertical, or the car
 ### Solve the Game:
 The agents needs to receive an average reward of 195.0 over 100 consecutive episodes
 
-# Installation
+## Installation
 - pip install gym
 - pip install numpy
 - pip install tensorflow
 - pip install keras
 
-# The CODE
+## The CODE
 - We will solve this problem using Deep Reinforcement Learning
 - Algorithm: Q Learning / Value Based Method
 - Deep Neural Netork: Keras
