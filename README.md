@@ -20,4 +20,10 @@ The agents needs to receive an average reward of 195.0 over 100 consecutive epis
 # Installation
 - pip install gym
 - pip install numpy
+- pip install tensorflow
+- pip install keras
 
+# The CODE
+- We will solve this problem using Deep Reinforcement Learning
+- Algorithm: Q Learning
+- Neural Netork: Keras
