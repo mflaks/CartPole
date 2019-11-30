@@ -1,11 +1,9 @@
 # CartPole-v1
 A pole is attached by an un-actuated joint to a cart, which moves along a frictionless track. The system is controlled by applying a force of +1 or -1 to the cart. The pendulum starts upright, and the goal is to prevent it from falling over. 
 
-<p align="center">
-  <img src="CartPole.JPG" width="350" title="hover text">
-</p>
+  ![Cartpole](CartPole.JPG)
 
-https://github.com/mflaks/CartPole/master/
+  
 ## Environment
 ### State:
 - observation space: Box(4,) 
