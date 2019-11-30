@@ -31,4 +31,4 @@ The agents needs to receive an average reward of 195.0 over 100 consecutive epis
 ## The CODE
 - We will solve this problem using Deep Reinforcement Learning
 - Algorithm: Q Learning / Value Based Method
-- Deep Neural Netork: Keras
+- Deep Neural Network: Keras
