@@ -1,12 +1,14 @@
-# CartPole
+# CartPole-v1
 A pole is attached by an un-actuated joint to a cart, which moves along a frictionless track. The system is controlled by applying a force of +1 or -1 to the cart. The pendulum starts upright, and the goal is to prevent it from falling over. 
 
 ## Environment
 ### State:
+- observation space: Box(4,) 
 
 ### Action:
-- `0` move to the left
-- `1` move to the right
+- action space: Discrete(2)
+  - `0` move to the left
+  - `1` move to the right
 
 ### Reward:
 A reward of +1 is provided for every timestep that the pole remains upright.
@@ -25,5 +27,5 @@ The agents needs to receive an average reward of 195.0 over 100 consecutive epis
 
 # The CODE
 - We will solve this problem using Deep Reinforcement Learning
-- Algorithm: Q Learning
-- Neural Netork: Keras
+- Algorithm: Q Learning / Value Based Method
+- Deep Neural Netork: Keras
