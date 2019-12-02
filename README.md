@@ -6,7 +6,7 @@ A pole is attached by an un-actuated joint to a cart, which moves along a fricti
   
 ## Environment
 ### State:
-- observation space: Box(4,) 
+- observation space: Box(4,) continuous space
 
 ### Action:
 - action space: Discrete(2)
